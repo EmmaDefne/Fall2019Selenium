@@ -26,6 +26,7 @@ public class RadioButtons {
 
 
         for(WebElement radioButton: radioButtons){
+            //radioButton.click();
 
             //<input type="radio" id="red" name="color">
             String id = radioButton.getAttribute("id");

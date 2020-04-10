@@ -4,6 +4,7 @@ package com.automation.tests.vytract.fleet;
 import com.automation.pages.LoginPage;
 import com.automation.pages.fleet.VehiclesPage;
 import com.automation.tests.vytrack.AbstractTestBase;
+import com.automation.tests.vytract.AbstractTestBase;
 import com.automation.utilities.Driver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
